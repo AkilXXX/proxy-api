@@ -1,5 +1,5 @@
 # proxy-api
-##Proxy api  get ptoxies from api.proxyscrape.com
+### php code  get ptoxies from api.proxyscrape.com
 
 
 
